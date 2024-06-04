@@ -1,7 +1,12 @@
 import React from 'react';
+import App from './App';
 
 const Home: React.FC = () => {
-  return <div>Welcome to Next.js with TypeScript!</div>;
+  return (
+    <div>
+      <App />
+    </div>
+  );
 };
 
 export default Home;
