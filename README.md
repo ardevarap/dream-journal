@@ -1,6 +1,6 @@
 # dream-journal
 
-Stack Used: 
+# Stack Used: 
 Node.js v.
 Express.js v.
 Next.js v.
